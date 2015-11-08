@@ -4,8 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# About Mental Blabberings
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+This site is about the personal thoughts and updates shared by Dean Berris, a
+C++ fanatic and one-time software engineering consultant in the Philippines.
+This site does not reflect the thoughts of anybody other than Dean Berris.
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Follow the links for more information about [who Dean is](/who-is-dean) or [the
+newsletter](/newsletter).

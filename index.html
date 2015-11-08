@@ -1,11 +1,21 @@
 ---
-layout: default
+layout: page
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Posts</h1>
-
+  <h1 class="page-heading">Insights from Chilling Out</h1>
+  <p><b>I am a logorrheic geek, writing about my adventures and experiences.</b></p>
+  <p>I am a migrant to Sydney, New South Wales, Australia from Manila,
+  Philippines who has been around the IT industry for long enough to have
+  enough stories to share. I've been a student, an entrepreneur, an employee,
+  and a consultant. I'm also currently a husband to an amazing wife, a father
+  to two amazing kids, and a software engineer in a big tech company.</p>
+  <p>This is my latest experiment in building and establishing relationships
+  with like-minded people out to make the world a better place through
+  technology. This space is dedicated to highlighting not only
+  <a href="/who-is-dean">who I am</a> but a collection of thoughts going out through
+  my <a href="/newsletter">newsletter</a>.</p>
+  <h1>Updates</h1>
   <ul class="post-list">
     {% for post in site.posts %}
       <li>
@@ -18,6 +28,6 @@ layout: default
     {% endfor %}
   </ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">Get updates via <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>
